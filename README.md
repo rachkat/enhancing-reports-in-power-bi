@@ -23,7 +23,6 @@ This lab adds finishing touches to a Power BI report to improve the end-user exp
 - Page: *Sales and Profit*
 - Visual: Insert → Buttons → **Information**
 - Title: `Info — Rachel Goldsbury`
-- Tooltip (optional): short help text on how to use slicers
 
 **B) Slicers & Date Filter**
 - **Order Date** slicer set to **December 2018** (bottom-left)
@@ -58,7 +57,7 @@ This lab adds finishing touches to a Power BI report to improve the end-user exp
 
 ---
 
-## 6) Screenshots (inline)
+## 6) Screenshots
 
 > Filenames are case-sensitive; spaces are URL-encoded.
 
