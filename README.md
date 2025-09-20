@@ -70,6 +70,21 @@ This lab adds finishing touches to a Power BI report to improve the end-user exp
 
 ---
 
+## Key Skills Demonstrated
+- Power BI navigation buttons, slicers, and page design
+- Filter logic (date slicing to a specific month/year)
+- UX writing (info button, titles, tooltips)
+- Validation with expanded visual & result reporting
+
+---
+
+## Future Improvements
+- Add **Bookmarks** to toggle between top customers/regions
+- Add a **drillthrough** page for customer details
+- Use a color-blind-friendly palette and larger tooltip cues
+- Add a short GIF demo of the info button + slicer flow
+___
+
 ## 7) Repo Layout
 .
 ├─ README.md
