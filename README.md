@@ -1,3 +1,7 @@
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Type](https://img.shields.io/badge/Stage-Portfolio--Lab-blue)
+![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
+
 # Power BI – Report Polish & Navigation (uCertify Lab 12.1.1)
 
 **Author:** Rachel Goldsbury  
